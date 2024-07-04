@@ -1,0 +1,8 @@
+45 particpants took part in a study to evaluate the effectivenesss of a new training course on sales personnels performace.
+
+Figure 1 shows the annual saoles of reps after partaking in a training programme. Reps who took the old training course had the highest average sales return (Mean = 15.94, SD = 3.48). Reps in the new training course has an average sales of 11.44, SD (2.99) while the reps who took the tidy course (control group) had the lowest sales (Mean = 10.71, SD = 2.69).
+
+A one-way independent ANOVA was conducted to evaluate the effect of the new training course compared to the old course and an unrelated trainng course. The assumption of homogeneity was met since levene's test was not significant (p = .377), and the normality assumption was also met since all data points of the residual lie close to the reference line in the Q-Q plot. Results indicates that there is a significant different between the groups, F(2, 42) = 12.74, p < .001, n2 = .377.
+
+
+The manner of information presentation, particularly the combined order of postive and negative values, have been shown to influence individual perception of another. Literature has also indicate dthat the social norm in form of in-groups, also influence this perception. The current study aims to investigate this theory. From the descriptives, it is expected that order of attributes affects the impression and perception of individuals.

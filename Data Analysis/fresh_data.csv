@@ -1,0 +1,63 @@
+What is your Age?,What Gender do you identify as? - Selected Choice,What Gender do you identify as? - Other - Text,Were/Are you registered to vote in your home country?,Pease rate the following statements using a 1 to 5 scale where 1 = Certain NOT to Vote and 5 = Certain TO Vote: - How likely are you to vote in the upcoming elections?,voting intention,Pease rate the following statements using a 1 to 5 scale where 1 = None and 5 = A lot: - How would you rate your interest in politics,Pease rate the following statements using a 1 to 5 scale where 1 = None and 5 = A lot: - How much attention have you paid to current campaigning strategies by the opposing parties?,Have you voted in any general election in the past?,FL_10 - Block Randomizer - Display Order
+27,Female,,Yes,Likely NOT to vote,2,Not very much,,Yes,NegFramingBlock
+27,Female,,Yes,Likely TO vote,4,Not very much,None,Yes,PosFramingBlock
+24,Female,,No,Likely NOT to vote,2,A fair amount,None,No,ControlBlock
+24,Male,,Yes,Certain NOT to vote,1,A fair amount,,Yes,ControlBlock
+20,Male,,Yes,Certain NOT to vote,1,None,None,No,NegFramingBlock
+21,Female,,Yes,Likely NOT to vote,2,Not very much,Not very much,No,NegFramingBlock
+23,Male,,Yes,Certain TO vote,5,A fair amount,Unsure,Yes,ControlBlock
+23,Female,,No,Likely TO vote,4,A fair amount,Not very much,No,NegFramingBlock
+27,Female,,Yes,Certain TO vote,5,Alot,A fair amount,Yes,PosFramingBlock
+21,Male,,No,Likely TO vote,4,Alot,A fair amount,No,ControlBlock
+21,Female,,Yes,Certain TO vote,5,Alot,Alot,Yes,ControlBlock
+22,Male,,Yes,Likely TO vote,4,Unsure,Not very much,Yes,PosFramingBlock
+24,Female,,Yes,Certain TO vote,5,A fair amount,Unsure,Yes,PosFramingBlock
+31,Female,,Yes,Likely NOT to vote,2,None,None,No,NegFramingBlock
+21,Female,,Yes,Certain NOT to vote,1,None,Not very much,No,PosFramingBlock
+21,Female,,Yes,Likely TO vote,4,Not very much,None,Yes,NegFramingBlock
+21,Male,,No,Likely NOT to vote,2,A fair amount,Not very much,No,NegFramingBlock
+20,Male,,Yes,Certain NOT to vote,1,Not very much,Not very much,No,ControlBlock
+22,Male,,Yes,Unsure,3,Unsure,Not very much,No,PosFramingBlock
+23,Female,,No,Certain NOT to vote,1,Not very much,None,No,ControlBlock
+22,Female,,Yes,Unsure,3,Not very much,Not very much,Yes,ControlBlock
+19,Male,,Yes,Unsure,3,A fair amount,Not very much,No,ControlBlock
+25,Female,,Yes,Unsure,3,A fair amount,Not very much,Yes,PosFramingBlock
+18,Male,,Yes,Unsure,3,Unsure,Unsure,No,ControlBlock
+18,Male,,Yes,Unsure,3,None,None,No,NegFramingBlock
+21,Female,,No,Likely NOT to vote,2,None,None,No,ControlBlock
+24,Female,,No,Likely NOT to vote,2,Not very much,Not very much,No,PosFramingBlock
+24,Female,,Yes,Certain TO vote,5,Alot,None,Yes,ControlBlock
+23,Male,,Yes,Likely TO vote,4,A fair amount,Not very much,Yes,PosFramingBlock
+18,Female,,Yes,Unsure,3,A fair amount,None,No,ControlBlock
+24,Female,,Yes,Likely NOT to vote,2,Not very much,Not very much,Yes,PosFramingBlock
+32,Female,,Yes,Unsure,3,A fair amount,Not very much,Yes,ControlBlock
+19,Female,,Yes,Likely NOT to vote,2,Unsure,Unsure,No,PosFramingBlock
+21,Female,,No,Likely TO vote,4,Not very much,None,No,NegFramingBlock
+20,Female,,Yes,Likely TO vote,4,Unsure,Unsure,Yes,ControlBlock
+19,Female,,Yes,Likely NOT to vote,2,A fair amount,A fair amount,No,NegFramingBlock
+19,Female,,Yes,Likely NOT to vote,2,Alot,A fair amount,No,NegFramingBlock
+24,Female,,No,Unsure,3,Not very much,Not very much,No,ControlBlock
+22,Male,,Yes,Likely NOT to vote,2,Unsure,A fair amount,Yes,NegFramingBlock
+29,Male,,Yes,Certain TO vote,5,Not very much,Not very much,Yes,ControlBlock
+22,Female,,Yes,Likely TO vote,4,A fair amount,Not very much,Yes,PosFramingBlock
+25,Non-binary / third gender,,Yes,Unsure,3,A fair amount,Unsure,No,ControlBlock
+21,Male,,No,Likely TO vote,4,A fair amount,Not very much,Yes,PosFramingBlock
+20,Female,,Yes,Likely TO vote,4,Not very much,None,No,PosFramingBlock
+20,Male,,No,Certain TO vote,5,Unsure,Not very much,No,PosFramingBlock
+23,Female,,Yes,Certain TO vote,5,A fair amount,Not very much,Yes,NegFramingBlock
+27,Female,,No,Likely TO vote,4,Alot,A fair amount,No,PosFramingBlock
+19,Male,,Yes,Unsure,3,Not very much,None,No,PosFramingBlock
+,Female,,No,Likely TO vote,4,Alot,Alot,No,PosFramingBlock
+24,Male,,Yes,Unsure,3,Not very much,Not very much,Yes,ControlBlock
+25,Male,,Yes,Unsure,3,A fair amount,None,Yes,PosFramingBlock
+28,Male,,Yes,Certain TO vote,5,Alot,A fair amount,No,ControlBlock
+31,Male,,Yes,Certain NOT to vote,1,Alot,Alot,Yes,PosFramingBlock
+26,Female,,Yes,Likely TO vote,4,A fair amount,A fair amount,Yes,PosFramingBlock
+23,Male,,Yes,Likely TO vote,4,Not very much,Not very much,Yes,PosFramingBlock
+25,Female,,No,Likely NOT to vote,2,None,Not very much,No,ControlBlock
+20,Female,,Yes,Certain TO vote,5,Alot,A fair amount,No,ControlBlock
+27,Male,,Yes,Certain TO vote,5,A fair amount,A fair amount,Yes,NegFramingBlock
+18,Female,,Yes,Certain NOT to vote,1,None,None,No,NegFramingBlock
+26,Female,,Yes,Certain TO vote,5,A fair amount,Unsure,Yes,ControlBlock
+33,Female,,Yes,Certain TO vote,5,Alot,Alot,Yes,PosFramingBlock
+29,Female,,Yes,Unsure,3,A fair amount,None,Prefer not to say,ControlBlock
